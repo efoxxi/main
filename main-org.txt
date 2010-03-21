@@ -1,42 +1,14 @@
 #+STARTUP:showall
 #+TAGS SWIN(s) HOME(h) COMP(c) BUY(b) KBD(k) THINK(t)
 
-* РЕНТ:
-** TODO поискать дешёвые места под рент
-*** сайты: [0/1]
-- [ ] http://www.realestate.com.au/
-* ЗАГРАНПАСПОРТ:
-** PROC найти место где дают
-http://www.sydneyrussianconsulate.com/passport.html
-* IT-COURSE:
-** TODO выбрать точные названия предметов
-** PROC PROJECT WORK						       :SWIN:
-*** TODO выбрать по списку что делать вначале
-* COOPERSLLOYD:
-** TODO решить с чего начать					      :THINK:
-* КУПИТЬ:
-** DONE суперклей							:BUY:
-** TODO тонкий пинцет (может быть?) 					:BUY:
-** TODO паяльную станцию либо тонкий маломощный паяльник	    :BUY:KBD:
-** TODO камеру
-*** выбрать [0/2]
-- [ ] Sony
-- [ ] Others
-* MY WEB SITE:
-** TODO найти где зарегить хостинг
-*** претенденты [0/2]
-- [ ] GoDaddy
-- [ ] xz kto
-** TODO закинуть туда вордпресс
-** TODO завершить статью про сидней
-** TODO добавить синхронизацию с жж и тд
 * ORG-MODE + GIT:
 ** PROC решить куда девать накопишиеся DONE [0/1]
 - [X] по ходу они складываются в архив
 *** TODO что с ними делать дальше?				      :THINK:
 ** TODO глянуть прошлый todo
 ** TODO объединить его с текущим
-** TODO найти под винду аналог git
+** DONE найти под винду аналог git
+msysgit
 ** TODO найти USB emacs под винду
    SCHEDULED: <2010-03-23 Tue>
 ** TODO ЧТО ЕЩЁ МОЖНО СДЕЛАТЬ ЛУЧШЕ: [0/2]
@@ -44,8 +16,43 @@ http://www.sydneyrussianconsulate.com/passport.html
  - [ ] test2
 
 * N800
-** найти дистр
-
+** DONE найти дистр
+дистр не нужен, т.к. используем последний Maemo + Easy Debian
+** TODO залить карты [0%]
+- [ ] подрубить образ
+- [ ] скопировать карты
+- [ ] скопировать настройки репов
 * Canberra
 ** глянуть места в отелях [0/1]
-- [ ] fasf
+- [ ]
+* РЕНТ:
+** TODO поискать дешёвые места под рент
+*** сайты: [0/1]
+- [ ] http://www.realestate.com.au/
+* ЗАГРАНПАСПОРТ:
+** PROC найти место где дают
+- [ ] http://www.sydneyrussianconsulate.com/passport.html
+* IT-COURSE:
+** TODO выбрать точные названия предметов
+** PROC PROJECT WORK						       :SWIN:
+*** TODO выбрать по списку что делать вначале
+* КУПИТЬ:
+** TODO решить с чего начать					      :THINK:
+** DONE суперклей							:BUY:
+** TODO тонкий пинцет (может быть?) 					:BUY:
+** TODO паяльную станцию либо тонкий маломощный паяльник	    :BUY:KBD:
+** TODO камеру							    :BUY:KBD:
+*** выбрать [0/2]
+- [ ] Sony
+- [ ] Others
+** TODO краску для Canon 200 ml					    :BUY:KBD:
+* MY WEB SITE:
+** TODO выбрать имя домена
+** TODO найти где зарегить хостинг
+*** претенденты [0/2]
+- [ ] GoDaddy
+- [ ] xz kto
+** TODO закинуть туда вордпресс
+** TODO завершить статью про сидней
+** TODO добавить синхронизацию с жж и тд
+* COOPERSLLOYD:

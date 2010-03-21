@@ -13,7 +13,7 @@ http://www.sydneyrussianconsulate.com/passport.html
 ** PROC PROJECT WORK						       :SWIN:
 *** TODO выбрать по списку что делать вначале
 * COOPERSLLOYD:
-** TODO решить с чего начать
+** TODO решить с чего начать					      :THINK:
 * КУПИТЬ:
 ** DONE суперклей							:BUY:
 ** TODO тонкий пинцет (может быть?) 					:BUY:

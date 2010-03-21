@@ -46,3 +46,6 @@ http://www.sydneyrussianconsulate.com/passport.html
 * N800
 ** найти дистр
 
+* Canberra
+** глянуть места в отелях [0/1]
+- [ ]

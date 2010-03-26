@@ -1,6 +1,16 @@
 #+STARTUP:showall
 #+TAGS SWIN(s) HOME(h) COMP(c) BUY(b) KBD(k) THINK(t)
 
+* Now
+** послушать подкаст Стрельникова
+** TODO remember mode
+** TODO куда девать выполненные задания org-mode ?
+** TODO что делать с приоритетами org-mode ?
+** TODO Evernote
+*** синхронизировать с твиттером
+*** посмотреть клиенты под линух и винду
+
+
 * Canberra
 ** глянуть места в отелях [0/1]
    SCHEDULED: <2010-03-21 Mon> DEADLINE: <2010-03-22 Mon>

@@ -1,6 +1,8 @@
 #+STARTUP:showall
 #+TAGS SWIN(s) HOME(h) COMP(c) BUY(b) KBD(k) THINK(t)
 
+* new edit 8 Dec 2010
+
 * Now
 ** PROC гараж + компы (решаем что делать) [3/5]
 - [X] поставить самсунговский моник вместо сони
